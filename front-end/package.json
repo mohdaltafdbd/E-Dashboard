@@ -1,6 +1,6 @@
 {
   "name": "front-end",
-  "homepage": "https://github.com/mohdaltafdbd/E-dashboard/tree/main/front-end/public",
+  "homepage": "https://github.com/mohdaltafdbd/E-dashboard/main/front-end",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
